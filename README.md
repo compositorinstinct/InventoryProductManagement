@@ -2,7 +2,7 @@
 Inventory Product Management
 
 
-![API Screenshot](ScreenShots/GetAll.jpeg)
-![API Screenshot](ScreenShots/GetById.jpeg)
-![API Screenshot](ScreenShots/put.jpeg)
-![API Screenshot](ScreenShots/push.jpeg)
+![API Screenshot](ScreenShots/GetAll.png)
+![API Screenshot](ScreenShots/GetById.png)
+![API Screenshot](ScreenShots/put.png)
+![API Screenshot](ScreenShots/push.png)
