@@ -4,5 +4,5 @@ Inventory Product Management
 
 ![API Screenshot](ScreenShots/GetAll.png)
 ![API Screenshot](ScreenShots/GetById.png)
-![API Screenshot](ScreenShots/put.png)
-![API Screenshot](ScreenShots/push.png)
+![API Screenshot](ScreenShots/Put.png)
+![API Screenshot](ScreenShots/Push.png)
